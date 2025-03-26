@@ -37,7 +37,7 @@ npm install
 
 4. Start the server:
 ```bash
-node solution.js
+node index.js
 ```
 
 5. Visit `http://localhost:3000` in your browser
